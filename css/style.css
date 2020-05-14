@@ -172,6 +172,12 @@ body{
   /* background: #e2f8ff; */
 }
 
+.cls-sign-up-main{
+  width: 100%;
+  float: left;
+  /* background: red;; */
+}
+
 .cls-sign-up-1{
   width: 50%;
   float: left;
@@ -339,11 +345,25 @@ body{
   margin-right: 5px;
   margin-left: 5px;
   background: #f9f9f9;
-  padding-bottom: 114px;
+  padding-bottom: 65px;
+  position: relative;
 }
 
 .cls-featured-projects-lower-part-1 img{
   width: 100%;
+}
+
+.cls-featured-projects-lower-part-1-inner-button button{
+  position: absolute;
+    width: 140px;
+    height: 35px;
+    top: 30%;
+    left: 55%;
+    font-size: 16.51px;
+    color: #ffffff;
+    background: #26a6d1;
+    border: 1px solid #26a6d1;
+    border-radius: 5px
 }
 
 .cls-featured-projects-lower-part-1 h1{
@@ -425,12 +445,27 @@ body{
   margin-right: 5px;
   margin-left: 5px;
   background: #f9f9f9;
-  padding-bottom: 114px;
+  padding-bottom: 65px;
+  position: relative;
 }
 
 .cls-featured-projects-lower-part-2 img{
   width: 100%;
 }
+
+.cls-featured-projects-lower-part-2-inner-button button{
+  position: absolute;
+    width: 140px;
+    height: 35px;
+    top: 30%;
+    left: 55%;
+    font-size: 16.51px;
+    color: #ffffff;
+    background: #26a6d1;
+    border: 1px solid #26a6d1;
+    border-radius: 5px
+}
+
 
 .cls-featured-projects-lower-part-2 h1{
   padding-top: 29px;
@@ -510,12 +545,27 @@ body{
   margin-right: 5px;
   margin-left: 5px;
   background: #f9f9f9;
-  padding-bottom: 114px;
+  padding-bottom: 65px;
+  position: relative;
 }
 
 .cls-featured-projects-lower-part-3 img{
   width: 100%;
 }
+
+.cls-featured-projects-lower-part-3-inner-button button{
+  position: absolute;
+    width: 140px;
+    height: 35px;
+    top: 30%;
+    left: 55%;
+    font-size: 16.51px;
+    color: #ffffff;
+    background: #26a6d1;
+    border: 1px solid #26a6d1;
+    border-radius: 5px
+}
+
 
 .cls-featured-projects-lower-part-3 h1{
   padding-top: 29px;
@@ -585,3 +635,33 @@ body{
   color: #add136;
 }
 /* -- Section Featured Projects Ends Here -- */
+
+/* -- Section Footer Starts Here  */
+
+.cls-sec-footer{
+  width: 100%;
+  float: left;
+  /* background: blue;
+  height: 75px; */
+  text-align: center;
+}
+
+.cls-sec-footer-upper-part img{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.cls-sec-footer-lower-part{
+  width: 100%;
+  text-align: center;
+  float: left;
+}
+
+.cls-sec-footer-lower-part h3{
+  font-size: 13.2px;
+  color: #848484;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* -- Section Footer Starts Here  */
